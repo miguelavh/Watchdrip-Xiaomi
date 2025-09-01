@@ -1,4 +1,4 @@
-<h1>Watchdrip-Xiaomi for xiaomi smartband 8 pro, xiaomi smartband 9, xiaomi smartband 10 and Redmi Watch 4</h1>
+<h1>Watchdrip-Xiaomi for xiaomi smartband 8 pro, xiaomi smartband 9, xiaomi smartband 10, xiaomi smartband 10 and Redmi Watch 4</h1>
 <br>
 Android app to synchronize blood glucose data between watchdrip+ and xiaomi wearables devices <b>xiaomi smartband 8 pro</b>, <b>xiaomi smartband 9</b> and <b>Redmi Watch 4</b>.<br>
 <br>
